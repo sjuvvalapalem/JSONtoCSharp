@@ -1,0 +1,7 @@
+H:\Projects\samples\JsonToCsharpClass\JSONtoCSharp\JSONtoCSharp\bin\JSONtoCSharp.dll.config
+H:\Projects\samples\JsonToCsharpClass\JSONtoCSharp\JSONtoCSharp\bin\JSONtoCSharp.dll
+H:\Projects\samples\JsonToCsharpClass\JSONtoCSharp\JSONtoCSharp\bin\JSONtoCSharp.pdb
+H:\Projects\samples\JsonToCsharpClass\JSONtoCSharp\JSONtoCSharp\bin\Newtonsoft.Json.dll
+H:\Projects\samples\JsonToCsharpClass\JSONtoCSharp\JSONtoCSharp\bin\Newtonsoft.Json.xml
+H:\Projects\samples\JsonToCsharpClass\JSONtoCSharp\JSONtoCSharp\obj\Debug\JSONtoCSharp.dll
+H:\Projects\samples\JsonToCsharpClass\JSONtoCSharp\JSONtoCSharp\obj\Debug\JSONtoCSharp.pdb

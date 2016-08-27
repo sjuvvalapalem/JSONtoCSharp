@@ -1,0 +1,13 @@
+﻿extensions: designer.cs generated.cs
+extensions: .cs .cpp .h
+// (c) @sjuvvalapalem -- Funny but no Copyright.. Do anything you want no responsibility from my side for any thing...
+extensions: .aspx .ascx
+<%--
+// (c) @sjuvvalapalem -- Funny but no Copyright.. Do anything you want no responsibility from my side for any thing...
+--%>
+extensions: .vb
+// (c) @sjuvvalapalem -- Funny but no Copyright.. Do anything you want no responsibility from my side for any thing...
+extensions:  .xml .config .xsd
+<!--
+// (c) @sjuvvalapalem -- Funny but no Copyright.. Do anything you want no responsibility from my side for any thing...
+-->
